@@ -1,5 +1,5 @@
-name = "bpb-worker-panel"
-main = "dist/index.js"
+name = "bpb-worker-panel-2"
+main = "dist/_worker.js"
 compatibility_date = "2026-09-30"
 
 [assets]
